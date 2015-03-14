@@ -21,3 +21,14 @@ $ gcc mkbootfs.c  -o mkbootfs -I../include
 copy system/core/mkbootimg/mkbootimg, system/core/cpio/mkbootfs to a directory in your path.
 
 solution from: https://gist.github.com/jberkel/1087757
+
+unmkbootimg comes from https://github.com/pbatard/bootimg-tools
+
+Some helpful links
+-------------------
+
+http://pete.akeo.ie/2013/10/compiling-and-running-your-own-android.html
+
+http://xda-university.com/as-a-developer/getting-started-building-a-kernel-from-source
+
+http://marcin.jabrzyk.eu/posts/2014/05/building-and-booting-nexus-5-kernel
